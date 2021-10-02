@@ -169,8 +169,3 @@ hr {
   width: 50%;
   margin: auto;
 }
-@media (max-width: 767px) {
-  .star-left2,.star-right2 {
-    display: none;
-  }
-}
