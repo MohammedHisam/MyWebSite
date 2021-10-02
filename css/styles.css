@@ -52,32 +52,32 @@ p{
 .star{
   position: absolute;
   right: 37.389%;
-  top: 250px;
+  top: 18.7%;
+  width: 25%;
 }
 .star-left{
   position: absolute;
   left: .5%;
   top: 0;
+  width: 25%;
 }
 .star-left2{
   position: absolute;
-  left: 21.0526%; 
+  left: 21.0526%;
   top: 0;
+  width: 25%;
 }
 .star-right{
   position: absolute;
   right: .5%;
   top: 0;
+  width: 25%;
 }
 .star-right2{
   position: absolute;
   right: 21.0526%;
   top: 0;
-}
-.bottom-cloud{
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
+  width: 25%;
 }
 .computer{
   
@@ -164,4 +164,13 @@ hr {
 }
 .coffee-row{
   padding-bottom: 5%;
+}
+.contact-me{
+  width: 50%;
+  margin: auto;
+}
+@media (max-width: 767px) {
+  .star-left2,.star-right2 {
+    display: none;
+  }
 }
