@@ -56,22 +56,22 @@ p{
 }
 .star-left{
   position: absolute;
-  left: 10px;
+  left: .5%;
   top: 0;
 }
 .star-left2{
   position: absolute;
-  left: 400px;
+  left: 21.0526%; 
   top: 0;
 }
 .star-right{
   position: absolute;
-  right: 10px;
+  right: .5%;
   top: 0;
 }
 .star-right2{
   position: absolute;
-  right: 400px;
+  right: 21.0526%;
   top: 0;
 }
 .bottom-cloud{
